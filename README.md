@@ -12,7 +12,7 @@
 
 ## Outline
 
-- 
+- log4j-mdc-ndc-by-baeldung - examples of log4j for mdc and ndc with completed configuration
 
 ## Execute all tests in repo
 
